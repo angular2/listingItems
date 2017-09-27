@@ -1,0 +1,23 @@
+Angular 2/4
+
+
+ * Difference between Angular 1 and Angular 2/4
+ * Migration from Angular 1 to Angular 2/4
+ 
+ 
+1. Creating/understanding webpack/boilerplate (ng-biolerplate)
+	To start with, angular 2 webpack as base
+2. SCM webpack understanding
+
+Above items covers following.
+	
+	1. Angular 2 component architecture
+	2. Angular package management (npm package management)
+	3. Build process
+	4. i18n
+	5. Routing
+	6. Creating an angular component
+	
+3. Full depth on Angular 2 Architecture
+
+	
