@@ -4,10 +4,13 @@ Angular 2/4
  * Difference between Angular 1 and Angular 2/4
  * Migration from Angular 1 to Angular 2/4
  
- 
-1. Creating/understanding webpack/boilerplate (ng-biolerplate)
+
+1. Typescipt
+2. ES6 Fundamentals
+
+3. Creating/understanding webpack/boilerplate (ng-biolerplate)
 	To start with, angular 2 webpack as base
-2. SCM webpack understanding
+4. SCM webpack understanding
 
 Above items covers following.
 	
@@ -18,6 +21,9 @@ Above items covers following.
 	5. Routing
 	6. Creating an angular component
 	
-3. Full depth on Angular 2 Architecture
+5. Full depth on Angular 2 Architecture
+
+6. Angular 2 - Sharing of components, parent child association, import different component
+
 
 	
