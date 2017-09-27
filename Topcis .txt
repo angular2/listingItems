@@ -41,7 +41,7 @@ Above items covers following.
 1. Java
 2. Advance Java
 3. Javascript
-4. Angular
+4. Angular 1/2/4
 5. GWT
 6. Git
 7. SVN
@@ -51,7 +51,7 @@ Above items covers following.
 11. Usability Testing
 12. Big data - Kafka, Spark, Elastic Search, Hbase, Kibana, CDH, Nodes
 13. Moderating Global meetings
-14. D3, DevExtreme, Angular Grid, Loadash
+14. D3, DevExtreme, Angular Grid, Loadash, Rxjs, Bootstrap, Sass
 
 
 
