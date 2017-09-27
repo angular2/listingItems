@@ -25,5 +25,35 @@ Above items covers following.
 
 6. Angular 2 - Sharing of components, parent child association, import different component
 
+7. Interview
+	1. Javascript questions
+	2. Angular 1 questions
+	3. Angular 2
+	4. Bower
+	5. Npm
+	6. Node
+	7. Build
+	8. Localization
+	9. GWT to Angular
+	
+	
+------------------------
+1. Java
+2. Advance Java
+3. Javascript
+4. Angular
+5. GWT
+6. Git
+7. SVN
+8. Maven
+9. Jenkins
+10. Postgres
+11. Usability Testing
+12. Big data - Kafka, Spark, Elastic Search, Hbase, Kibana, CDH, Nodes
+13. Moderating Global meetings
+14. D3, DevExtreme, Angular Grid, Loadash
+
+
+
 
 	
